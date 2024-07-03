@@ -37,3 +37,8 @@
 // cashWithdrawal(300, accnumber);
 // cashWithdrawal(50, 11811800);
 // cashWithdrawal(666, 60606060);
+
+// const addUp = (num1, num2) => {
+//     return num1 + num2;
+// };
+// console.log(addUp(10, 9));
