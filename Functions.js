@@ -42,3 +42,12 @@
 //     return num1 + num2;
 // };
 // console.log(addUp(10, 9));
+
+// const multiplyByNineFiths = (celcius) => {
+//     return celcius * (9/5);
+// };
+
+// const getFahrenheit = (celcius) => {
+//     return multiplyByNineFiths(celcius) + 32;
+// };
+// console.log("The Temperature is " + getFahrenheit(15) + "°F"); 
